@@ -1,2 +1,2 @@
 # Rockbuster
-Rockbuster - Chapter 2 Case Study
+Rockbuster - Chapter 3 Case Study
